@@ -17,5 +17,3 @@ try:
 finally:
     # Close connection
     conn.close()
-
-conn.cursor()
